@@ -1,8 +1,6 @@
-
-
 <channels>
 <channel>
-<name>[COLOR blue]ATORES[/COLOR]</name>
+<name>[COLOR white]ATORES[/COLOR]</name>
 <thumbnail>https://ia801401.us.archive.org/23/items/fanart_20200421_1558/ATORES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/acaosemlimites/a-o-sem-limites/master/atores</externallink>
 <fanart>https://ia601506.us.archive.org/5/items/fanart_20200421/fanart.jpg</fanart>
@@ -18,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green]COLEÕES[/COLOR]</name>
+<name>[COLOR white]COLEÇÃO[/COLOR]</name>
 <thumbnail>https://ia801401.us.archive.org/23/items/fanart_20200421_1558/COLE%C3%87%C3%83O.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/acaosemlimites/a-o-sem-limites/master/Cole%C3%A7%C3%A3o</externallink>
 <fanart>https://ia601506.us.archive.org/5/items/fanart_20200421/fanart.jpg</fanart>
@@ -34,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR black]LANÇAMENTOS[/COLOR]</name>
+<name>[COLOR white]LANÇAMENTOS[/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/23/items/fanart_20200421_1558/LAN%C3%87AMENTOS.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601506.us.archive.org/5/items/fanart_20200421/fanart.jpg</fanart>
@@ -50,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR orange]OUTROS[/COLOR]</name>
+<name>[COLOR white]OUTROS[/COLOR]</name>
 <thumbnail>https://ia801401.us.archive.org/23/items/fanart_20200421_1558/OUTROS.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601506.us.archive.org/5/items/fanart_20200421/fanart.jpg</fanart>
