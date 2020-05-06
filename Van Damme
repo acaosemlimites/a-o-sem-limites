@@ -99,12 +99,39 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>Coletânea - Soldado Universal</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vG4X23Jw0_bmH98Wqz6cw0S5xkL1Rbo_/view$$1sname=Soldado Universal 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NAuqmP4NvXLL0WhBpZdW5tArn3Sr7O41/view$$1sname=Soldado Universal 2 - O Retorno</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ve1qOVh_NuJLDYw67iZGll_aegQq3Htv/view$$1sname=Soldado Universal 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1E2s6NanUXdI4IJTZWKjzAIPTc0bTCShi/view$$1sname=Soldado Universal 4</link>
+<title>Soldado Universal 1</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vG4X23Jw0_bmH98Wqz6cw0S5xkL1Rbo_/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YvFMseLMzqmbFaFjo0Bt1W8j6B.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YvFMseLMzqmbFaFjo0Bt1W8j6B.jpg</fanart>
 <info>Durante a Guerra do Vietnã, o soldado Luc Deveraux descobre que seu superior, Andrew Scott, se tornou descontroladamente violento, e os dois lutam até a morte. Seus corpos são resgatados e colocados num programa secreto em que são reanimados e treinados para se tornar máquinas assassinas. Inicialmente, Devereaux e Scott não têm memória de suas vidas passadas, mas lampejos do passado começam a retornar, reavivando o intenso conflito.</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>Soldado Universal 2 - O Retorno</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NAuqmP4NvXLL0WhBpZdW5tArn3Sr7O41/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlcPJK0Me8aUtDPwk3TqN2RdKH4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlcPJK0Me8aUtDPwk3TqN2RdKH4.jpg</fanart>
+<info>S.E.T.H. (Michael Jai White) é um super computador guerreiro, que decide se vingar e destruir os militares que o criaram. Para impedi-lo é convocado Luc Devereaux (Jean-Claude Van Damme), ex-integrante da equipe militar especial chamada de "soldados universais". Só que para detê-lo, Devereaux terá que travar uma verdadeira batalha entre homem e máquina.</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>Soldado Universal 3</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ve1qOVh_NuJLDYw67iZGll_aegQq3Htv/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r68RpZCZt5B7gHaZ6V9xYZ3kyA1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r68RpZCZt5B7gHaZ6V9xYZ3kyA1.jpg</fanart>
+<info>Um grupo de rebeldes sequestra os filhos de um importante político do leste europeu, exigindo, em troca, a liberdade de alguns prisioneiros. Para complicar, tomam posse da desativada usina de Chernobyl e instalam no local bombas que podem fazer um grande estrago radioativo na região. Como o inimigo possui um exemplar de Soldado Universal (Andrei Arlovski) em sua equipe, antigos Soldados Universais são reativados para combater o inimigo, sobrando também para Luc Deveraux (Jean-Claude Van Damme), que passando por tratamento psicológico, não imaginava encontrar novamente o sargento Andrew Scott (Dolph Lundgren).</info>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>Soldado Universal 4</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1E2s6NanUXdI4IJTZWKjzAIPTc0bTCShi/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg</fanart>
+<info>John tem sua mulher e filha assassinadas em um ataque à sua casa, e vai atrás do responsável por isso - Luc Deveraux -, que planeja, com um grupo de soldados universais, exterminar a anarquia instituindo um governo de UniSols. Para conseguir sua vingança, John vai se colocar no caminho deles.</info>
 </item>
